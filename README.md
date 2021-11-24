@@ -1,9 +1,10 @@
 # cmake learning progress
 ## by Oparilames (S. Hoffmann) and a anonymous teacher
-## folder structure
+## goal for folder structure after cmake has run sucessfully
 ```
 .
-├── CMakeLists.txt
+├── cmakeStuff
+│   └── CMakeLists.txt
 ├── bin
 ├── include
 │   ├── A.hpp
