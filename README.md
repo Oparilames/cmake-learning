@@ -1,5 +1,5 @@
 # cmake learning progress
-## by Oparilames (S. Hoffmann) and a anonymous teacher
+## by Oparilames (S. Hoffmann) and an anonymous teacher
 ## goal for folder structure after cmake has run sucessfully
 ```
 .
